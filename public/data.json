@@ -1,0 +1,48 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "author_name": "Abdullah",
+            "blog_title": "The Importance of Sleep for Productivity",
+            "images": {
+                "blog_cover_image": "https://img.freepik.com/free-vector/glowing-moon-with-clouds-stars-background_1017-33783.jpg?w=740&t=st=1680255870~exp=1680256470~hmac=27ce1d357e4c253b9e80d820ebbd999716aa838295fd90f052119fd63de37f77",
+                "author_image": "https://randomuser.me/api/portraits/men/65.jpg"
+            },
+            "read_time":7,
+            "publish_date": "Mar 14 (4 Days ago)"
+        },
+        {
+            "id": 2,
+            "author_name": "Abdur Rahman",
+            "blog_title": "The Importance of Time Management  for Success",
+            "images": {
+                "blog_cover_image": "https://img.freepik.com/premium-photo/caucasian-businessman-showing-clock-time-management_220873-7790.jpg?w=900",
+                "author_image": "https://randomuser.me/api/portraits/men/10.jpg"
+            },
+            "read_time": 5,
+            "publish_date": "Mar 14 (4 Days ago)"
+        },
+        {
+            "id": 3,
+            "author_name": "Abu Andrew",
+            "blog_title": "The Benefits of Meditation for Mental Health",
+            "images": {
+                "blog_cover_image": "https://img.freepik.com/free-vector/mental-health-social-media-cover-template_23-2149047116.jpg?w=740&t=st=1680256522~exp=1680257122~hmac=9487a775fd5a8fbabb23168eee82bbc54c9d41721398ead4504cd6a56934a808",
+                "author_image": "https://randomuser.me/api/portraits/men/82.jpg"
+            },
+            "read_time": 10,
+            "publish_date": "Mar 14 (4 Days ago)"
+        },
+        {
+            "id": 4,
+            "author_name": "Anas bin malek",
+            "blog_title": "How to Build a Successful Online Business",
+            "images": {
+                "blog_cover_image": "https://img.freepik.com/free-vector/local-business-marketing-banner-template_107791-2219.jpg?w=996&t=st=1680256439~exp=1680257039~hmac=0bf29ce10de8397757bb93b8e69958e5819ec867ac67f7c96e47c4f386d90497",
+                "author_image": "https://randomuser.me/api/portraits/men/31.jpg"
+            },
+            "read_time": 12,
+            "publish_date": "Mar 14 (4 Days ago)"
+        }
+    ]
+}
